@@ -1,0 +1,1 @@
+This application is used to check area of a triangle.
